@@ -33,7 +33,7 @@ As instâncias são derivadas do conjunto de dados público CVC-FP:
 > Fernandez-Moral, E., Martins, R., Wolf, D., & Rives, P. (2016).
 > *A new metric for evaluating semantic segmentation: leveraging global and contour accuracy.*
 > Proceedings of the IEEE Intelligent Vehicles Symposium.
-> Disponível em: http://www.cvc.uab.es/cvcfloorplan/
+> Disponível em: https://dag.cvc.uab.es/dataset/cvc-fp-database-for-structural-floor-plan-analysis/
 
 ## Licença
 
