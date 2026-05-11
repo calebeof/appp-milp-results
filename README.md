@@ -3,8 +3,6 @@
 Este repositório contém os resultados experimentais completos do artigo:
 
 > **Métodos Exatos para o Problema de Posicionamento de Pontos de Acesso em Redes Wi-Fi 6/6E**
-> Calebe Oliveira de Figueirêdo, Thiago Gouveia, Andressa Theotônio Alves de Figueirêdo
-> Instituto Federal da Paraíba (IFPB)
 > *Artigo submetido ao Simpósio Brasileiro de Pesquisa Operacional (SBPO) 2026.*
 
 ## Descrição
